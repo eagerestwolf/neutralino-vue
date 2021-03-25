@@ -234,7 +234,7 @@ $RECYCLE.BIN/
 ### NeutralinoJS ###
 
 # Binaries
-myapp-linux
-myapp-mac
-myapp-win.exe
+*-linux
+*-mac
+*-win.exe
 
